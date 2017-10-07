@@ -1,5 +1,6 @@
 # space_constants
 SI Constants for space plasma physics.
+Source: NRL Plasma Formulary (2013)
 
 kb [J K-1] boltzmann constant <br>
 qe [C]     charge of an electron <br>
