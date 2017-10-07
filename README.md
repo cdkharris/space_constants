@@ -1,7 +1,7 @@
 # space_constants
 SI Constants for space plasma physics.
 
-kb [J K-1] boltzmann constant
+kb [J K-1] boltzmann constant\\
 qe [C]     charge of an electron
 me [kg]    mass of an electron
 mp [kg]    mass of a proton
