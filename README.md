@@ -4,7 +4,7 @@ SI constants for space plasma physics
 Source: NRL Plasma Formulary (revised 2016)
 https://www.nrl.navy.mil/ppd/content/nrl-plasma-formulary
 
-kb [J K-1] boltzmann constant
+kb [J K-1] boltzmann constant<br>
 qe [C]     charge of an electron
 me [kg]    mass of an electron
 mp [kg]    mass of a proton
