@@ -22,7 +22,7 @@ epk [eV]   energy associated with 1 Kelvin
 reu [m]    the radius of Europa
 """
 
-import numpy as np
+import numpy.pi as pi
 
 kb = 1.3807e-23
 qe = 1.6022e-19
@@ -32,7 +32,7 @@ be = 3.1000e-5
 re = 6370e3
 cl = 2.9979e8
 e0 = 8.8542e-12
-m0 = 4*np.pi*1e-7
+m0 = 4*pi*1e-7
 hv = 1.6022e-19
 epk = 8.6174e-5
 reu = 1560e3
